@@ -1,7 +1,7 @@
 ## Olá, mundo! Eu sou a Monique 👩‍💻🚀
 
 <div align="center">
-  <img height="350em" src="https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif">
+  <img height="350em" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif?cid=ecf05e47720zdy6tklk0md74dz183toia6q6bwcyzoq1yijx&rid=giphy.gif&ct=g">
  <div>
   <a href="https://www.linkedin.com/in/devfullstackpython/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moniqueds&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
