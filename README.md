@@ -1,7 +1,7 @@
 ## Olá, mundo! Eu sou a Monique 👩‍💻🚀
 
 <div align="center">
-  <img height="400em" src="https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif">
+  <img height="350em" src="https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif">
  <div>
   <a href="https://www.linkedin.com/in/devfullstackpython/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moniqueds&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
@@ -25,6 +25,7 @@
 ## 
  
 <div> 
+  <a href="https://codepen.io/moniqueds" target="_blank"><img height="30" width="100" src="https://user-images.githubusercontent.com/89393449/134171826-8a0f30a3-d2bf-4206-99cc-e1ccd35c2e8b.png" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCqU_-MA_LMloOyPbOzHYNRA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/moniqueds/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/moniqueds90" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
