@@ -19,6 +19,7 @@
   <img align="center" alt="Csharp" height="30" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt=".NET" height="30" width="60" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="DJANGO" height="30" width="60" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+  <img align="center" alt="PORTUGOL" height="30" width="60" src="https://uploaddeimagens.com.br/images/003/443/966/full/unnamed.jpg?1632331205"> 
   <img height="150px" align="right" alt="Mario8Bits" src="https://i.pinimg.com/originals/b6/90/40/b69040ba12c1b3a9d9d998e3e67154e9.gif">    
 </div>
       
