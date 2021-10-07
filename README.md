@@ -1,4 +1,5 @@
 ## Olá, mundo! Eu sou a Monique 👩‍💻🚀
+## if you wanna see my codes please look on codepen. you can find the link bellow. :)
 
 <div align="center">
   <img height="350em" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif?cid=ecf05e47720zdy6tklk0md74dz183toia6q6bwcyzoq1yijx&rid=giphy.gif&ct=g">
