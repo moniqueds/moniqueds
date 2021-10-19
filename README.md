@@ -25,7 +25,9 @@
 </div>
       
 ## 
- 
+   
+## Where you can find me:
+   
 <div> 
   <a href="https://codepen.io/moniqueds" target="_blank"><img height="30" width="100" src="https://user-images.githubusercontent.com/89393449/134171826-8a0f30a3-d2bf-4206-99cc-e1ccd35c2e8b.png" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCqU_-MA_LMloOyPbOzHYNRA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
