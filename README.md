@@ -1,5 +1,7 @@
 ## Olá, mundo! Eu sou a Monique 👩‍💻🚀
 
+# "What I know for sure is this: The most important journey of our lives doesn't necessarily involve climbing the highest peak or trekking around the world. The biggest adventure you can ever take is to live the life of your dreams." Oprah.
+
 <div align="center">
   <img height="350em" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif?cid=ecf05e47720zdy6tklk0md74dz183toia6q6bwcyzoq1yijx&rid=giphy.gif&ct=g">
  <div>
