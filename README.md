@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Java" height="40" width="60" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/image.png">
-    <img align="center" alt="Golang" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMaigRrQfSRReNhFETxD25rZgwUlZX2_ixPA&usqp=CAU">
+    <img align="center" alt="Golang" height="30" width="40" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png">
   <img align="center" alt="Js" height="30" width="60" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Ts" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
