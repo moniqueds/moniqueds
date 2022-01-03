@@ -39,7 +39,7 @@
  	<a href="https://www.facebook.com/moniqueds90" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:xmoneex@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/devfullstackpython/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/610965" target="_blank"><img src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png" target="_blank"></a> 
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/610965" target="_blank"><img src=https://img.shields.io/badge/-beecrowd-brightgreen" target="_blank"></a> 
   
 
 ## 
